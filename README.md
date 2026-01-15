@@ -1,4 +1,4 @@
-The app is developed using Flutter.
+The app is developed using Flutter. I build this app for self-learning and for fun.
 
 Flutter is an open-source UI toolkit developed by Google for building natively compiled applications for mobile, web, and desktop from a single codebase. It allows developers to create visually appealing and high-performance applications using the Dart programming language, streamlining the development process across multiple platforms.
 
